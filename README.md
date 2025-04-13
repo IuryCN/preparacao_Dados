@@ -46,11 +46,4 @@ Com isso, foi possível comparar a distribuição dos dados em cada tipo de esca
 
 ---
 
-## 🧪 Exercícios Práticos Extras
-
-Além do projeto guiado, resolvi alguns exercícios complementares com o mesmo dataset, focando em:
-- Análise de dados únicos e estatísticas descritivas
-- Criação de colunas derivadas
-- Aplicação de MinMaxScaler e LabelEncoder
-- Transformações de variáveis categóricas e contínuas
 
